@@ -1,2 +1,2 @@
 # Solution
-[solution.ipynb on Anaconda JupyterHub](https://nb.anaconda.com/jupyterhub/user/1cfb2103-a536-4f07-a54a-c1af08f4f915/doc/tree/solution.ipynb)
+[solution.ipynb on Anaconda JupyterHub](https://anaconda.com/app/share/notebooks/5a7f6f0b-4e60-4ef6-bcd1-2ca2f6e7506d/overview)
